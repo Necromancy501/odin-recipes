@@ -12,7 +12,7 @@ of the things that comes with practice so I'm not really feeling overwhelmed by 
 one of my main weaknessess across.
 
 There is certain concepts I don't really grasp fully like the security measures for hyperlinks, the text tags (I had to browse back
-to remember the <p> tag) and some other really basic funcionalities. That being said, there is certain concepts like basic structure, workflow
+to remember the <>p<> tag) and some other really basic funcionalities. That being said, there is certain concepts like basic structure, workflow
 and shortcutting that I have somewhat made my strengths and it shows, even in these early stages.
 
 I had lots of fun doing this project and analyzing my strengths and weaknessess across. Everything comes with it's own perks and
