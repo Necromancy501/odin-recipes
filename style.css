@@ -1,0 +1,28 @@
+/* stylesheet */
+
+* {
+    background: rgba(245, 177, 212, 0.8);
+    text-align: center;
+    list-style: none;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: rgba(67, 8, 80, 0.8);
+}
+
+ul {
+    margin: 5%;
+    font-size: 35px;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+a {
+    color: rgba(19, 15, 62, 0.8);
+    font-weight: bold;
+}
