@@ -1,15 +1,15 @@
 /* stylesheet */
 
 * {
+    margin: 8px;
     background: rgba(37, 192, 121, 0.3);
     text-align: center;
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
 }
 
 body>a{
-
     font-size: 30px;
-    margin-right: 67%;
+    margin: 20px auto;
     color: rgba(59, 67, 3, 1);
     background: rgba(161, 83, 193, 0.5);
 }
@@ -20,7 +20,7 @@ ol{
 }
 
 li {
-    text-align: left;x
+    text-align: left;
     margin-bottom: 8px;
-    filter:contrast(2)
+    filter:contrast(2);
 }
